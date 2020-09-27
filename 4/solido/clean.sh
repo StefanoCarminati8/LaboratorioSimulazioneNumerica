@@ -1,0 +1,9 @@
+rm -rf media_ekin.out
+rm -rf media_epot.out
+rm -rf media_etot.out
+rm -rf media_temp.out
+rm -rf output_ekin.dat
+rm -rf output_epot.dat
+rm -rf output_etot.dat
+rm -rf output_temp.dat
+rm -rf output_restart.out
