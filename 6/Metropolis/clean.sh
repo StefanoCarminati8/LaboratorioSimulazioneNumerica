@@ -1,0 +1,12 @@
+rm -rf outputchi.0
+rm -rf outputcv.0
+rm -rf outputen.0
+rm -rf outputmag.0
+rm -rf outputmag2.0
+rm -rf seed.out
+rm -rf config.final
+rm -rf chi.0
+rm -rf cv.0
+rm -rf mag.0
+rm -rf mag2.0
+rm -rf energie.0
